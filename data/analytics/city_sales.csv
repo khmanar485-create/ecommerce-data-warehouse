@@ -1,0 +1,21 @@
+customer_city,customer_state,items_sold,orders,total_sales
+sao paulo,SP,17808,15402,2170227.12
+rio de janeiro,RJ,7837,6834,1154234.02
+belo horizonte,MG,3144,2750,416733.39
+brasilia,DF,2392,2116,352305.14
+curitiba,PR,1751,1510,244739.87
+porto alegre,RS,1612,1372,224064.09
+salvador,BA,1412,1238,216772.4
+campinas,SP,1654,1429,212541.7
+guarulhos,SP,1329,1178,163575.82
+niteroi,RJ,980,845,137919.38
+goiania,GO,817,687,124060.53
+sao bernardo do campo,SP,1060,928,119024.85
+fortaleza,CE,728,650,118646.07
+santos,SP,820,706,111670.21
+recife,PE,677,612,110023.52
+santo andre,SP,890,792,104630.62
+florianopolis,SC,660,565,99925.37
+belem,PA,487,441,95622.12
+osasco,SP,850,742,94000.72
+jundiai,SP,656,560,91406.77
