@@ -193,6 +193,7 @@ The resulting analytical datasets are exported as CSV files for visualization.
 ##  Power BI Dashboard
 
 The analytical datasets are connected to Power BI to create an interactive sales analytics dashboard.
+![E-Commerce Sales Analytics Dashboard](screenshots/dashboard.png)
 
 ### Dashboard includes
 
